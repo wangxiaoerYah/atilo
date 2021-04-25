@@ -32,15 +32,13 @@ help             帮助
 
 | 发行版        | aarch64 |  arm  | x86_64 | i686  |
 | ------------- | :-----: | :---: | :----: | :---: |
-| Arch          |    √    |   √   |   ×    |   ×   |
 | Alpine        |    √    |   √   |   √    |   √   |
 | CentOS        |    √    |   √   |   √    |   √   |
 | Debian        |    √    |   √   |   √    |   √   |
-| Fedora        |    √    |   ×   |   √    |   ×   |
+| Fedora        |    √    |   √   |   √    |   ×   |
 | Kali          |    √    |   √   |   √    |   √   |
 | openSUSE      |    √    |   ×   |   √    |   √   |
-| Ubuntu Cosmic |    √    |   √   |   √    |   √   |
-| Ubuntu LTS    |    √    |   √   |   √    |   √   |
+| Ubuntu        |    √    |   √   |   √    |   √   |
 
 ## 图形
 
